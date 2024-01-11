@@ -2,6 +2,9 @@
 
 Este repositorio tiene como objetivo familiarizarse con el diseño e implementación de librerías estáticas y dinámicas en el entorno de desarrollo GNU Toolchain y Linux Software. Se realizarán actividades que involucran el manejo de command line arguments, la implementación de una librería estática (cJSON) y una librería dinámica actuando como _plugin_.
 
+### Autores:
+- **Bottini, Franco Nicolas**
+
 ### 1. Command Line Arguments
 
 Se diseñó e implementó un programa en C que, al ejecutarse con argumentos específicos, realiza las siguientes acciones:
